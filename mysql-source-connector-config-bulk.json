@@ -1,9 +1,4 @@
 {
-  "name": "jdbc_source_mysql_01",
-  "config": {
-    "connector.class": "io.confluent.connect.jdbc.JdbcSourceConnector",
-    "tasks.max": "2",
-{
      "name": "jdbc_source_mysql_01",
      "config": {
              "connector.class":"io.confluent.connect.jdbc.JdbcSourceConnector",
